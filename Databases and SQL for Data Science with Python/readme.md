@@ -708,7 +708,7 @@ cur = con.cursor()
 
 ```
 
-## W6 ❉ Advanced SQL For Data Engineer
+## Week 6 - Advanced SQL For Data Engineer
 📓**Views, Stored Procedures, and Transactions**
 ➡ **Views**
 - **What is a View:**
